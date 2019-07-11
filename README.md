@@ -53,4 +53,4 @@ Vue.use(vcolorpicker)
 <colorPicker v-model="color" v-on:change="headleChangeColor" />
 ```
 ## 文章
-http://www.rxshc.com/180.html
+https://juejin.im/post/5bbab9de5188255c8c0cb0e3
